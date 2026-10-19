@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for digital forensics learni
 3. **Foliate** — com.github.johnfactotum.Foliate
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for digital forensics learning:
+
+1. **Calibre** — organize ebooks and convert documents (com.calibre_ebook.calibre)
+2. **LibreOffice** — create reports and spreadsheets (org.libreoffice.LibreOffice)
+3. **Thonny** — write and debug Python code (org.thonny.Thonny)
+4. **Godot Engine** — build and test 2D and 3D games (org.godotengine.Godot)
+5. **QGIS** — analyze geographic data and make maps (org.qgis.qgis)
+6. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
+7. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+8. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
+9. **GNOME Clocks** — time work sessions and events (org.gnome.clocks)
+10. **GNOME Maps** — look up places and plan routes (org.gnome.Maps)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.

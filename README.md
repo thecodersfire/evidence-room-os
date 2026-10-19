@@ -25,4 +25,4 @@ The `evidence-room.svg` wallpaper is original. Evidence Room OS is an independen
 See [FEATURES.md](FEATURES.md) for three local tools included for digital forensics learning.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
